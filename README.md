@@ -6,6 +6,12 @@
 - 🎓 Pursuing Masters of Science in Computer Science at [Rutgers University - New Brunswick](https://www.rutgers.edu/)
 - 🧑‍💻 3 years of experience as Data Engineer at [Deutsche Bank](https://country.db.com/usa/?language_id=1&kid=usa.redirect-en.shortcut)
 
+Technologies:
+
+### Top Languages Used Across All Repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarata&layout=compact)
+
 
 
 
