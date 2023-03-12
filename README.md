@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, Devarata Oza here 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/devarata/)](https://www.linkedin.com/in/devarata/)
+[![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail&link=mailto:do309@rutgers.edu)](mailto:do309@rutgers.edu)
+
+**About Me**
+- 🎓 Pursuing Master's in Computer Science
+- 🧑‍💻 Previously Data Engineer at Deutsche Bank
+
+
+
 
 <!--
 **devarata/devarata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
