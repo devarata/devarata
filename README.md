@@ -3,8 +3,11 @@
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail&link=mailto:do309@rutgers.edu)](mailto:do309@rutgers.edu)
 
 **About Me**
-- 🎓 Pursuing Master's in Computer Science
-- 🧑‍💻 Previously Data Engineer at Deutsche Bank
+- 🎓 Pursuing Masters of Science in Computer Science at [Rutgers University - New Brunswick](https://www.rutgers.edu/)
+- 🧑‍💻 3 years of experience as Data Engineer at [Deutsche Bank](https://country.db.com/usa/?language_id=1&kid=usa.redirect-en.shortcut)
+
+
+
 
 
 
