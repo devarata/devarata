@@ -3,6 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/devarata/)](https://www.linkedin.com/in/devarata/)
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail&link=mailto:do309@rutgers.edu)](mailto:do309@rutgers.edu)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/devarata/devarata/blob/main/Devarata%20Resume%202023.pdf)
+
 
 **About Me**
 - 🎓 Pursuing Masters of Science in Computer Science at [Rutgers University - New Brunswick](https://www.rutgers.edu/)
