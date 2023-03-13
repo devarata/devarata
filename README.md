@@ -1,8 +1,5 @@
 ### Hi there, I'm Devarata Oza 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devarata&show_icons=true&count_private=true&theme=dark)
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/devarata/)](https://www.linkedin.com/in/devarata/)
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail&link=mailto:do309@rutgers.edu)](mailto:do309@rutgers.edu)
@@ -56,8 +53,10 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4DC71F?style=flat-square&logo=jenkins&logoColor=white)
 
+**GitHub Stats:**<br>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devarata&show_icons=true&count_private=true&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=devarata&theme=dark)
 
 
 
