@@ -57,8 +57,7 @@
 
 **GitHub Stats:**<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devarata&show_icons=true&count_private=true&theme=dark)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=devarata&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devarata&show_icons=true&theme=onedark)
 
 
 
