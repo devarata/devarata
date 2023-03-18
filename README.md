@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/devarata/)](https://www.linkedin.com/in/devarata/)
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail&link=mailto:do309@rutgers.edu)](mailto:do309@rutgers.edu)
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/devarata/devarata/blob/main/Devarata%20Resume%202023.pdf)
+[![View count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devarata)](https://github.com/devarata)
+
 
 
 **About Me**
