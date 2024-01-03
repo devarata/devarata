@@ -3,8 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/devarata/)](https://www.linkedin.com/in/devarata/)
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail&link=mailto:do309@rutgers.edu)](mailto:do309@rutgers.edu)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/devarata/devarata/blob/main/Devarata%20Resume%202023.pdf)
-
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/devarata/devarata/files/13824187/Devarata_Oza_Resume_SDE_2024.pdf)
 
 
 
