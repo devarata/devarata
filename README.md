@@ -12,7 +12,7 @@
 
 **About Me**
 - 🎓 Pursuing Masters of Science in Computer Science at [Rutgers University - New Brunswick](https://www.rutgers.edu/)
-- 🧑‍💻 3 years of experience as Data Engineer at [Deutsche Bank](https://country.db.com/usa/?language_id=1&kid=usa.redirect-en.shortcut)
+- 🧑‍💻 3 years of experience as Data Scientist at [Deutsche Bank](https://country.db.com/usa/?language_id=1&kid=usa.redirect-en.shortcut)
 
 **Languages:**<br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
