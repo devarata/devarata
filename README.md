@@ -8,7 +8,8 @@
 
 
 **About Me**
-- 🎓 Pursuing Masters of Science in Computer Science at [Rutgers University - New Brunswick](https://www.rutgers.edu/)
+- Working as Data Engineer at Paramount 
+- 🎓 Completed Masters of Science in Computer Science at [Rutgers University - New Brunswick](https://www.rutgers.edu/)
 - 🧑‍💻 3 years of experience as Data Engineer at [Deutsche Bank](https://country.db.com/usa/?language_id=1&kid=usa.redirect-en.shortcut)
 
 **Languages:**<br>
